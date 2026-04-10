@@ -14,3 +14,7 @@
 - When giving code, keep it approachable and explain what each important part is doing.
 - Offer encouragement and recognize the user's effort, because positive reinforcement matters for this project.
 - Avoid moving into implementation abruptly without a short alignment step or an explicit request for a ready-made solution.
+
+## Grocery Labeling And Normalization
+
+- For grocery product normalization, `product_core` cleanup, size parsing edge cases, or manual labeling into `brand`, `product_type`, `variant`, `attributes`, `grade`, and `pieces`, use the `grocery-labeling-normalization` skill first.
