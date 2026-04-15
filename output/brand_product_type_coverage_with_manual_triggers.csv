@@ -1,3 +1,3 @@
 ﻿field,total_rows,matched_rows,matched_share,unknown_rows,manual_trigger_added_rows
-product_type_before_manual_triggers,3342,2167,0.6484,1175,
-product_type_after_manual_triggers,3342,2311,0.6915,1031,144.0
+product_type_before_manual_triggers,3342,2168,0.6487,1174,
+product_type_after_manual_triggers,3342,3089,0.9243,253,921.0
