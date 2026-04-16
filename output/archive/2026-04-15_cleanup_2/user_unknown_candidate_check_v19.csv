@@ -1,0 +1,26 @@
+﻿label,row_v10,keywords,unknown_hits,matched_hits,rule_hits,status
+fillet salmon,755.0,salmon | fillet,18,17,14,needs_rule_update
+brussels sprouts,760.0,brussels sprouts,1,0,1,needs_rule_update
+mixed vegetables,,mixed vegetables,3,0,2,needs_rule_update
+ravioli,771.0,ravioli,2,3,1,needs_rule_update
+pastry sheet,855.0,pastry sheet,1,0,1,needs_rule_update
+katifi,976.0,katifi,0,0,0,already_covered
+vegetable powder,786.0,vegetable powder,1,0,1,needs_rule_update
+thyme,787.0,thyme,3,1,3,needs_rule_update
+curry,788.0,curry,2,2,2,needs_rule_update
+pepper mix,789.0,pepper mix,1,0,1,needs_rule_update
+garlic dried,790.0,garlic | dried chopped,5,2,5,needs_rule_update
+hot pepper,,hot pepper,1,2,1,needs_rule_update
+chili dried,,chili | dried,42,28,40,needs_rule_update
+bechamel powder,806.0,bechamel powder,2,0,1,needs_rule_update
+guacamole,,guacamole,1,0,1,needs_rule_update
+salsa,,salsa,1,0,1,needs_rule_update
+buckwheat,819.0,buckwheat,4,1,1,needs_rule_update
+ketchup,822.0,ketchup,26,16,15,needs_rule_update
+beer,839.0,beers | beer,16,40,12,needs_rule_update
+cider,842.0,cider | cedar,10,1,3,needs_rule_update
+vermouth,844.0,vermouth,1,0,1,needs_rule_update
+rum,,rum,8,5,4,needs_rule_update
+mayonnaise,8800.0,mayonnaise,17,0,1,needs_rule_update
+cashews,8803.0,cashew | cashews,3,0,2,needs_rule_update
+baby food,8900.0,baby formula,3,0,1,needs_rule_update
