@@ -334,20 +334,21 @@ def main() -> None:
         current_core = normalize_text(getattr(row, "product_core_norm", ""))
         current_core_wo = normalize_text(getattr(row, "product_core_without_brand", ""))
 
-        if current_brand:
+        manual_brand, manual_method, manual_search_term = match_manual_brand(current_core, rules)
+        if manual_brand:
+            brand_pred_with_manual.append(manual_brand)
+            brand_match_method_with_manual.append(manual_method)
+            manual_brand_trigger_used.append(manual_search_term)
+            product_core_without_brand_with_manual.append(remove_term_once(current_core, manual_search_term))
+        elif current_brand:
             brand_pred_with_manual.append(current_brand)
             brand_match_method_with_manual.append(current_method)
             manual_brand_trigger_used.append("")
             product_core_without_brand_with_manual.append(current_core_wo)
-            continue
-
-        manual_brand, manual_method, manual_search_term = match_manual_brand(current_core, rules)
-        brand_pred_with_manual.append(manual_brand)
-        brand_match_method_with_manual.append(manual_method)
-        manual_brand_trigger_used.append(manual_search_term)
-        if manual_search_term:
-            product_core_without_brand_with_manual.append(remove_term_once(current_core, manual_search_term))
         else:
+            brand_pred_with_manual.append("")
+            brand_match_method_with_manual.append("")
+            manual_brand_trigger_used.append("")
             product_core_without_brand_with_manual.append(current_core_wo)
 
     df["brand_pred_with_manual"] = brand_pred_with_manual

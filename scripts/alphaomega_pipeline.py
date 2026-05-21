@@ -529,13 +529,6 @@ def apply_brand_manual_rules(first_pass, brand_manual_rules):
         existing_brand = normalize_text(row.brand_pred)
         existing_method = str(row.brand_match_method).strip()
 
-        if existing_brand:
-            brand_pred_with_manual.append(existing_brand)
-            brand_match_method_with_manual.append(existing_method)
-            manual_brand_trigger_used.append("")
-            core_without_brand_with_manual.append(row.product_core_without_brand)
-            continue
-
         matched_brand = ""
         matched_trigger = ""
         for rule in brand_manual_rules:
@@ -551,6 +544,11 @@ def apply_brand_manual_rules(first_pass, brand_manual_rules):
             core_without_brand_with_manual.append(
                 remove_brand_once(row.product_core_norm, matched_trigger)
             )
+        elif existing_brand:
+            brand_pred_with_manual.append(existing_brand)
+            brand_match_method_with_manual.append(existing_method)
+            manual_brand_trigger_used.append("")
+            core_without_brand_with_manual.append(row.product_core_without_brand)
         else:
             brand_pred_with_manual.append("")
             brand_match_method_with_manual.append("")
@@ -596,6 +594,10 @@ def load_product_type_manual_rules():
 
     manual["product_type_norm"] = manual["product_type"].map(normalize_text)
     manual["trigger_norm"] = manual["trigger"].map(normalize_text)
+    manual["trigger_norm"] = manual["trigger_norm"].where(
+        manual["trigger_norm"].ne(""),
+        manual["product_type_norm"],
+    )
     manual["category_norm"] = manual["category"].map(normalize_text)
     manual["category_keywords_norm"] = manual["category_keywords"].map(normalize_text)
     manual = manual.loc[

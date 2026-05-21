@@ -1,16 +1,16 @@
 ﻿scope,rule_name,pair_count,unique_sklavenitis_items,unique_alphamega_items
-single_rule,product_type + exact_size,30472.0,1564,3066.0
-single_rule,brand + product_type,6146.0,1058,1747.0
-single_rule,brand + exact_size,6368.0,1359,2001.0
-single_rule,product_type + informative_token,25308.0,1631,3475.0
-single_rule,product_type + similar_brand_fragment,8137.0,1182,1946.0
-single_rule,similar_brand_fragment + exact_size,7525.0,1483,2212.0
-incremental_union,product_type + exact_size,30472.0,1564,3066.0
-incremental_union,brand + product_type,3722.0,163,429.0
-incremental_union,brand + exact_size,3944.0,377,641.0
-incremental_union,product_type + informative_token,12994.0,227,809.0
-incremental_union,product_type + similar_brand_fragment,694.0,19,25.0
-incremental_union,similar_brand_fragment + exact_size,442.0,41,56.0
-union,all_rules_union,52268.0,2391,5026.0
-union_metrics,avg_candidates_per_sklavenitis_item,21.860309493935592,2391,
-union_metrics,median_candidates_per_sklavenitis_item,8.0,2391,
+single_rule,product_type + exact_size,31013.0,1680,3330.0
+single_rule,brand + product_type,6766.0,1182,1904.0
+single_rule,brand + exact_size,6370.0,1369,2012.0
+single_rule,product_type + informative_token,26296.0,1762,3745.0
+single_rule,product_type + similar_brand_fragment,8891.0,1307,2096.0
+single_rule,similar_brand_fragment + exact_size,7742.0,1495,2209.0
+incremental_union,product_type + exact_size,31013.0,1680,3330.0
+incremental_union,brand + product_type,4178.0,209,488.0
+incremental_union,brand + exact_size,3782.0,295,548.0
+incremental_union,product_type + informative_token,13344.0,242,865.0
+incremental_union,product_type + similar_brand_fragment,489.0,24,28.0
+incremental_union,similar_brand_fragment + exact_size,511.0,34,55.0
+union,all_rules_union,53317.0,2484,5314.0
+union_metrics,avg_candidates_per_sklavenitis_item,21.464170692431562,2484,
+union_metrics,median_candidates_per_sklavenitis_item,8.0,2484,

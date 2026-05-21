@@ -19,15 +19,15 @@ sweets,kinder,,
 frozen kataifi,,,
 margarine,,,
 crab sticks,,,
-bananas,,fresh fruits & vegetables > fruits,fruits
-strawberries,,fresh fruits & vegetables > fruits,fruits | berries
-pears,,fresh fruits & vegetables > fruits,fruits
-oranges,,fresh fruits & vegetables > fruits,fruits
-tangerines,,fresh fruits & vegetables > fruits,fruits
-blueberry,,fresh fruits & vegetables > fruits,fruits | berries
-raspberries,,fresh fruits & vegetables > fruits,fruits | berries
-blackberries,,fresh fruits & vegetables > fruits,fruits | berries
-plums,,fresh fruits & vegetables > fruits,fruits
+bananas,,fresh fruits & vegetables > fruits,fruits | fresh food
+strawberries,,fresh fruits & vegetables > fruits,fruits | berries | fresh food
+pears,,fresh fruits & vegetables > fruits,fruits | fresh food
+oranges,,fresh fruits & vegetables > fruits,fruits | fresh food
+tangerines,,fresh fruits & vegetables > fruits,fruits | fresh food
+blueberry,,fresh fruits & vegetables > fruits,fruits | berries | fresh food
+raspberries,,fresh fruits & vegetables > fruits,fruits | berries | fresh food
+blackberries,,fresh fruits & vegetables > fruits,fruits | berries | fresh food
+plums,,fresh fruits & vegetables > fruits,fruits | fresh food
 onion,,fresh fruits & vegetables > vegetables,vegetables
 basil,,fresh fruits & vegetables > prepacked salads -fruits & herbs,herbs
 bread,βread,,
@@ -103,42 +103,42 @@ dried fish,dried mackerel,lenten food,lenten | dried fish | fish | seafood
 dried fish,dried octopus,lenten food,lenten | dried fish | fish | seafood
 dried fish,dried squid,lenten food,lenten | dried fish | fish | seafood
 dried fish,dried tuna,lenten food,lenten | dried fish | fish | seafood
-apples,,fresh fruits & vegetables > fruits,fruits | fruit
-cherries,,fresh fruits & vegetables > fruits,fruits | fruit
-grapes,,fresh fruits & vegetables > fruits,fruits | fruit
-grapes,grape,fresh fruits & vegetables > fruits,fruits | fruit
-grapefruit,,fresh fruits & vegetables > fruits,fruits | fruit
-lemons,,fresh fruits & vegetables > fruits,fruits | fruit
-limes,,fresh fruits & vegetables > fruits,fruits | fruit
-peaches,,fresh fruits & vegetables > fruits,fruits | fruit
-nectarines,,fresh fruits & vegetables > fruits,fruits | fruit
-apricots,,fresh fruits & vegetables > fruits,fruits | fruit
-mangoes,,fresh fruits & vegetables > fruits,fruits | fruit
-mangoes,mango,fresh fruits & vegetables > fruits,fruits | fruit
-pineapples,,fresh fruits & vegetables > fruits,fruits | fruit
-kiwis,,fresh fruits & vegetables > fruits,fruits | fruit
-kiwis,kiwi,fresh fruits & vegetables > fruits,fruits | fruit
+apples,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+cherries,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+grapes,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+grapes,grape,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+grapefruit,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+lemons,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+limes,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+peaches,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+nectarines,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+apricots,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+mangoes,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+mangoes,mango,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+pineapples,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+kiwis,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+kiwis,kiwi,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
 kumquat,,,
-pomegranates,,fresh fruits & vegetables > fruits,fruits | fruit
-watermelons,,fresh fruits & vegetables > fruits,fruits | fruit
-melons,,fresh fruits & vegetables > fruits,fruits | fruit
-papaya,,fresh fruits & vegetables > fruits,fruits | fruit
-avocados,,fresh fruits & vegetables > fruits,fruits | fruit
-figs,,fresh fruits & vegetables > fruits,fruits | fruit
-dragon fruit,,fresh fruits & vegetables > fruits,fruits | fruit
-passion fruit,,fresh fruits & vegetables > fruits,fruits | fruit
-lychees,,fresh fruits & vegetables > fruits,fruits | fruit
-persimmons,,fresh fruits & vegetables > fruits,fruits | fruit
-clementines,,fresh fruits & vegetables > fruits,fruits | fruit
-pomelo,,fresh fruits & vegetables > fruits,fruits | fruit
-pomelo,pomela,fresh fruits & vegetables > fruits,fruits | fruit
-quince,,fresh fruits & vegetables > fruits,fruits | fruit
-cranberries,,fresh fruits & vegetables > fruits,fruits | fruit | berries
-gooseberries,,fresh fruits & vegetables > fruits,fruits | fruit | berries
-currants,,fresh fruits & vegetables > fruits,fruits | fruit | berries
-red currants,,fresh fruits & vegetables > fruits,fruits | fruit | berries
-black currants,,fresh fruits & vegetables > fruits,fruits | fruit | berries
-mulberries,,fresh fruits & vegetables > fruits,fruits | fruit | berries
+pomegranates,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+watermelons,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+melons,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+papaya,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+avocados,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+figs,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+dragon fruit,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+passion fruit,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+lychees,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+persimmons,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+clementines,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+pomelo,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+pomelo,pomela,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+quince,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+cranberries,,fresh fruits & vegetables > fruits,fruits | fruit | berries | fresh food
+gooseberries,,fresh fruits & vegetables > fruits,fruits | fruit | berries | fresh food
+currants,,fresh fruits & vegetables > fruits,fruits | fruit | berries | fresh food
+red currants,,fresh fruits & vegetables > fruits,fruits | fruit | berries | fresh food
+black currants,,fresh fruits & vegetables > fruits,fruits | fruit | berries | fresh food
+mulberries,,fresh fruits & vegetables > fruits,fruits | fruit | berries | fresh food
 cucumbers,,fresh fruits & vegetables > fresh vegetables,vegetables | vegetable
 zucchini,,fresh fruits & vegetables > fresh vegetables,vegetables | vegetable
 aubergines,,fresh fruits & vegetables > fresh vegetables,vegetables | vegetable
@@ -352,9 +352,9 @@ chicory,,,
 fruit salad,mixed fruits,,
 fruit salad,exotic fruits,,
 fruit salad,tropical fruit,,
-fresh cut fruit,fresh cut,fresh fruits & vegetables > prepacked salads -fruits & herbs,fruit | fresh cut
-fresh cut fruit,pre cut,fresh fruits & vegetables > prepacked salads -fruits & herbs,fruit | fresh cut
-fresh cut fruit,pre-sliced,fresh fruits & vegetables > prepacked salads -fruits & herbs,fruit | fresh cut
+fresh cut fruit,fresh cut,fresh fruits & vegetables > prepacked salads -fruits & herbs,fruit | fresh cut | fresh food
+fresh cut fruit,pre cut,fresh fruits & vegetables > prepacked salads -fruits & herbs,fruit | fresh cut | fresh food
+fresh cut fruit,pre-sliced,fresh fruits & vegetables > prepacked salads -fruits & herbs,fruit | fresh cut | fresh food
 salad,,fresh fruits & vegetables > prepacked salads -fruits & herbs,salad | fresh cut
 rocket,baby rocket,,
 wafer rolls,roll waffer,,
