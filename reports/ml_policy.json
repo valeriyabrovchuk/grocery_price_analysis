@@ -1,0 +1,14 @@
+{
+  "model_name": "logistic_regression",
+  "threshold": 0.7,
+  "roc_auc": 0.9475948286501831,
+  "accuracy": 0.8707482993197279,
+  "precision": 0.952247191011236,
+  "recall": 0.7775229357798165,
+  "f1": 0.8560606060606061,
+  "tp": 339,
+  "fp": 17,
+  "tn": 429,
+  "fn": 97,
+  "predicted_match_count": 356
+}

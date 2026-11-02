@@ -1,5 +1,0 @@
-﻿field,total_rows,matched_rows,matched_share,unknown_rows,manual_trigger_added_rows
-brand_before_manual_triggers,3342,2064,0.6176,1278,
-brand_after_manual_triggers,3342,2853,0.8537,489,789.0
-product_type_before_manual_triggers,3342,2168,0.6487,1174,
-product_type_after_manual_triggers,3342,3089,0.9243,253,921.0

@@ -1,0 +1,4 @@
+test,pvalue
+t-test on paired log prices,3.0216273632857814e-05
+Wilcoxon signed-rank,1.733275821439612e-14
+Sign test,2.151324199037356e-23

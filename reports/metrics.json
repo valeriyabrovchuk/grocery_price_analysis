@@ -1,0 +1,41 @@
+{
+  "n_pairs": 841,
+  "geometric_mean_price_ratio": 1.0216599705808764,
+  "geometric_price_gap_percent": 2.1659970580876364,
+  "arithmetic_mean_item_gap_percent": 3.2035362849065216,
+  "median_item_gap_percent": 1.3432835820895495,
+  "mean_difference_eur": 0.04813317479191441,
+  "t_statistic": 4.194792157166233,
+  "t_pvalue": 3.0216273632857814e-05,
+  "t_ci95_percent": [
+    1.1467226063871636,
+    3.1955429291788517
+  ],
+  "wilcoxon_statistic": 97009.0,
+  "wilcoxon_pvalue": 1.733275821439612e-14,
+  "sign_test_pvalue": 2.151324199037356e-23,
+  "alphamega_more_expensive": 514,
+  "sklavenitis_more_expensive": 242,
+  "same_price": 85,
+  "bootstrap_iterations": 10000,
+  "bootstrap_seed": 13,
+  "bootstrap_ci95_percent": [
+    1.127608476136141,
+    3.160068836903436
+  ],
+  "exact_nonempty_size_pairs": 818,
+  "same_size_flag_pairs": 820,
+  "sklavenitis_products": 3342,
+  "sklavenitis_coverage_percent": 25.164572112507482,
+  "alphamega_products": 8672,
+  "alphamega_coverage_percent": 9.697878228782288,
+  "exact_size_sensitivity": {
+    "n_pairs": 818,
+    "geometric_price_gap_percent": 1.8954876400811949,
+    "t_pvalue": 0.00018918596769031498,
+    "t_ci95_percent": [
+      0.8989331796192965,
+      2.9018848289186114
+    ]
+  }
+}

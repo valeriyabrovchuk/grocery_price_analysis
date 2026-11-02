@@ -1,3 +1,31 @@
+# Local inputs and exact backups of the working research folder
 raw_data/
-.venv/
+data/raw/*
+!data/raw/README.md
+.local_archive/
+
+# Environments, kernels and caches
+.venv*/
+__pycache__/
+*.py[cod]
 .ipynb_checkpoints/
+.jupyter/
+.mplconfig/
+
+# Rebuildable outputs and scratch files
+data/interim/*
+!data/interim/README.md
+tmp/
+*.bak
+*.bak_before_*
+~$*
+.DS_Store
+Thumbs.db
+
+# Credentials and local editor configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.vscode/

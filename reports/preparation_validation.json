@@ -1,0 +1,32 @@
+{
+  "sklavenitis": {
+    "generated_rows": 3342,
+    "snapshot_rows": 3342,
+    "same_row_count": true,
+    "mismatched_rows_by_column": {
+      "product_name": 0,
+      "product_core": 0,
+      "grade": 0,
+      "size_total_base": 0,
+      "size_base_unit": 0,
+      "brand_pred_with_manual": 0,
+      "product_type_pred_with_manual": 0,
+      "product_core_without_brand_with_manual": 0
+    }
+  },
+  "alphamega": {
+    "generated_rows": 8672,
+    "snapshot_rows": 8672,
+    "same_row_count": true,
+    "mismatched_rows_by_column": {
+      "product_name": 0,
+      "product_core": 0,
+      "grade": 0,
+      "size_total_base": 0,
+      "size_base_unit": 0,
+      "brand_pred_with_manual": 0,
+      "product_type_pred_with_manual": 0,
+      "product_core_without_brand_with_manual": 0
+    }
+  }
+}

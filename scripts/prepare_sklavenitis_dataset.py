@@ -7,8 +7,8 @@ import pandas as pd
 
 
 ROOT = Path(__file__).resolve().parents[1]
-INPUT_PATH = ROOT / "raw_data" / "sklavenitis-ypsonas.csv"
-OUTPUT_DIR = ROOT / "output"
+INPUT_PATH = ROOT / "data" / "raw" / "sklavenitis-ypsonas.csv"
+OUTPUT_DIR = ROOT / "data" / "interim" / "preparation"
 OUTPUT_PATH = OUTPUT_DIR / "sklavenitis_ypsonas_processed.csv"
 ZERO_WIDTH_CHARS_PATTERN = r"[\u200b\u200c\u200d\ufeff]"
 
@@ -555,7 +555,7 @@ def main() -> None:
     df = build_working_dataset(INPUT_PATH)
     df.to_csv(OUTPUT_PATH, index=False, encoding="utf-8-sig")
 
-    print(f"saved_to={OUTPUT_PATH}")
+    print(f"saved_to={OUTPUT_PATH.relative_to(ROOT).as_posix()}")
     print_summary(df)
 
 

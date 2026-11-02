@@ -1,0 +1,79 @@
+{
+  "validation_date": "2026-11-02",
+  "python": "3.12.14",
+  "platform": "Windows",
+  "packages": {
+    "numpy": "1.26.4",
+    "pandas": "2.2.3",
+    "scipy": "1.14.1",
+    "scikit-learn": "1.7.2",
+    "statsmodels": "0.14.4",
+    "matplotlib": "3.9.2",
+    "nbformat": "5.10.4",
+    "nbclient": "0.10.2"
+  },
+  "notebooks_executed_with_fresh_kernels": [
+    "01_data_preparation.ipynb",
+    "02_product_matching.ipynb",
+    "03_ml_experiments.ipynb",
+    "04_price_analysis.ipynb"
+  ],
+  "clean_export_test": {
+    "passed": true,
+    "git_history_available": false,
+    "raw_csv_available": false,
+    "original_archive_available": false,
+    "all_four_notebooks_executed": true,
+    "validate_project_passed": true
+  },
+  "matching_historical_comparison": {
+    "rows": 53436,
+    "max_absolute_feature_differences": {
+      "tfidf_char_core_similarity": 0.0,
+      "tfidf_word_core_similarity": 0.0,
+      "product_type_similarity": 0.0,
+      "brand_similarity": 0.0,
+      "size_similarity": 0.0,
+      "brand_penalty": 0.0,
+      "grade_adjustment": 0.0,
+      "final_match_score": 0.0
+    }
+  },
+  "raw_preparation_with_frozen_manual_decisions": {
+    "sklavenitis": {
+      "generated_rows": 3342,
+      "snapshot_rows": 3342,
+      "same_row_count": true,
+      "mismatched_rows_by_column": {
+        "product_name": 0,
+        "product_core": 0,
+        "grade": 0,
+        "size_total_base": 0,
+        "size_base_unit": 0,
+        "brand_pred_with_manual": 0,
+        "product_type_pred_with_manual": 0,
+        "product_core_without_brand_with_manual": 0
+      }
+    },
+    "alphamega": {
+      "generated_rows": 8672,
+      "snapshot_rows": 8672,
+      "same_row_count": true,
+      "mismatched_rows_by_column": {
+        "product_name": 0,
+        "product_core": 0,
+        "grade": 0,
+        "size_total_base": 0,
+        "size_base_unit": 0,
+        "brand_pred_with_manual": 0,
+        "product_type_pred_with_manual": 0,
+        "product_core_without_brand_with_manual": 0
+      }
+    }
+  },
+  "additional_prediction_pool_rows": 52554,
+  "original_files_preserved": 255,
+  "original_sha256_verification_passed": true,
+  "historical_ml_metrics_reproduced_exactly": false,
+  "historical_primary_effect_and_bootstrap_reproduced": true
+}

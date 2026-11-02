@@ -6,14 +6,14 @@ import pandas as pd
 
 
 ROOT = Path(__file__).resolve().parents[1]
-RAW_DATA_DIR = ROOT / "raw_data"
-OUTPUT_DIR = ROOT / "output"
+RAW_DATA_DIR = ROOT / "data" / "raw"
+OUTPUT_DIR = ROOT / "data" / "interim" / "preparation"
 
 ALPHAOMEGA_RAW_PATH = RAW_DATA_DIR / "alphamega.csv"
-BRAND_VOCAB_PATH = OUTPUT_DIR / "brand_vocab.csv"
-PRODUCT_TYPE_VOCAB_PATH = OUTPUT_DIR / "product_type_vocab.csv"
-BRAND_MANUAL_DICT_PATH = OUTPUT_DIR / "brand_manual_trigger_dictionary_current.csv"
-PRODUCT_TYPE_MANUAL_DICT_PATH = OUTPUT_DIR / "product_type_manual_trigger_dictionary_current.csv"
+BRAND_VOCAB_PATH = ROOT / "data" / "reference" / "brand_vocab.csv"
+PRODUCT_TYPE_VOCAB_PATH = ROOT / "data" / "reference" / "product_type_vocab.csv"
+BRAND_MANUAL_DICT_PATH = ROOT / "data" / "reference" / "brand_manual_trigger_dictionary_current.csv"
+PRODUCT_TYPE_MANUAL_DICT_PATH = ROOT / "data" / "reference" / "product_type_manual_trigger_dictionary_current.csv"
 
 ALPHAOMEGA_PROCESSED_PATH = OUTPUT_DIR / "alphamega_processed.csv"
 ALPHAOMEGA_FIRST_PASS_PATH = OUTPUT_DIR / "alphamega_brand_product_type_first_pass.csv"
@@ -813,12 +813,12 @@ def run_alphaomega_pipeline():
     unknown_brand_top.to_csv(ALPHAOMEGA_UNKNOWN_BRAND_PATH, index=False, encoding="utf-8-sig")
     unknown_product_type_top.to_csv(ALPHAOMEGA_UNKNOWN_PRODUCT_TYPE_PATH, index=False, encoding="utf-8-sig")
 
-    print(f"saved: {ALPHAOMEGA_PROCESSED_PATH}")
-    print(f"saved: {ALPHAOMEGA_FIRST_PASS_PATH}")
-    print(f"saved: {ALPHAOMEGA_WITH_MANUAL_PATH}")
-    print(f"saved: {ALPHAOMEGA_COVERAGE_PATH}")
-    print(f"saved: {ALPHAOMEGA_UNKNOWN_BRAND_PATH}")
-    print(f"saved: {ALPHAOMEGA_UNKNOWN_PRODUCT_TYPE_PATH}")
+    print(f"saved: {ALPHAOMEGA_PROCESSED_PATH.relative_to(ROOT).as_posix()}")
+    print(f"saved: {ALPHAOMEGA_FIRST_PASS_PATH.relative_to(ROOT).as_posix()}")
+    print(f"saved: {ALPHAOMEGA_WITH_MANUAL_PATH.relative_to(ROOT).as_posix()}")
+    print(f"saved: {ALPHAOMEGA_COVERAGE_PATH.relative_to(ROOT).as_posix()}")
+    print(f"saved: {ALPHAOMEGA_UNKNOWN_BRAND_PATH.relative_to(ROOT).as_posix()}")
+    print(f"saved: {ALPHAOMEGA_UNKNOWN_PRODUCT_TYPE_PATH.relative_to(ROOT).as_posix()}")
     print()
     print(coverage.to_string(index=False))
 

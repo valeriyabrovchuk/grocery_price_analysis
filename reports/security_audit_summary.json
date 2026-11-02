@@ -1,0 +1,18 @@
+{
+  "audit_date": "2026-11-02",
+  "local_commits_including_reflogs": 20,
+  "unique_git_blobs": 302,
+  "initial_worktree_files": 287,
+  "credential_pattern_candidates": 0,
+  "confirmed_personal_path_locations_in_initial_worktree_and_history": 157,
+  "initial_false_positive_on_scanner_pattern": 1,
+  "unscanned_binary_or_compiled_objects": 7,
+  "git_author_identities": 2,
+  "remote_main_matches_local_head": true,
+  "remote_branches": [
+    "main"
+  ],
+  "git_history_rewritten": false,
+  "public_export_local_path_or_credential_candidates": 0,
+  "limitations": "Pattern scan only. Original Git history retains local paths and author identities. The public export excludes that history."
+}

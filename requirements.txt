@@ -1,0 +1,12 @@
+# Проверяемое окружение портфолио: Python 3.12.
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.14.1
+scikit-learn==1.7.2
+statsmodels==0.14.4
+matplotlib==3.9.2
+openpyxl==3.1.5
+jupyterlab==4.4.1
+ipykernel==6.29.5
+nbformat==5.10.4
+nbclient==0.10.2

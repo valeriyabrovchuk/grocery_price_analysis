@@ -1,0 +1,683 @@
+product_type,trigger,category,category_keywords
+smoked fish,smoked herring,,
+dried fish,dried sea bream,lenten food,lenten | dried fish | fish | seafood
+hummus,,,
+pickled vegetables,pikla,,
+pickled vegetables,gherkins,,
+pickled vegetables,pickled celery,,
+pickled vegetables,pickled beetroots,,
+pickled vegetables,pickled mixed vegetables,,
+pickled vegetables,pickled capers,,
+pickled vegetables,piccalilli pickles,,
+pickled vegetables,pickled cornichons,,
+vacuum-packed corn,steamed corn,,
+vacuum-packed pumpkin,prepacked pumpkin,,
+vacuum-packed beetroot,ready to eat beetroots,,
+vacuum-packed beetroot,beetroot steamed,,
+capers,,,
+sweets,kinder,,
+frozen kataifi,,,
+margarine,,,
+crab sticks,,,
+bananas,,fresh fruits & vegetables > fruits,fruits | fresh food
+strawberries,,fresh fruits & vegetables > fruits,fruits | berries | fresh food
+pears,,fresh fruits & vegetables > fruits,fruits | fresh food
+oranges,,fresh fruits & vegetables > fruits,fruits | fresh food
+tangerines,,fresh fruits & vegetables > fruits,fruits | fresh food
+blueberry,,fresh fruits & vegetables > fruits,fruits | berries | fresh food
+raspberries,,fresh fruits & vegetables > fruits,fruits | berries | fresh food
+blackberries,,fresh fruits & vegetables > fruits,fruits | berries | fresh food
+plums,,fresh fruits & vegetables > fruits,fruits | fresh food
+onion,,fresh fruits & vegetables > vegetables,vegetables
+basil,,fresh fruits & vegetables > prepacked salads -fruits & herbs,herbs
+bread,βread,,
+bread,loaf,,
+bread,brioche,,
+bread,buns,"bakery, cakes & treats > sliced toast bread",bread
+bread,breads,"bakery, cakes & treats > pitta bread",bread
+sandwich,wrap,ready meals > salads-sandwiches -fruit snacks &,sandwich | sandwiches
+sushi,,ready meals > sushi,sushi
+bull shoulder cubes,,,
+mortadela,,,
+coffee capsules,capsules,"breakfast - tea - coffee > coffees, beverages & teas",coffee
+jam,,,
+jam,marmalade,,
+honey,,"breakfast - tea - coffee > honey, jams & traditional sweets",honey
+cereal,cereals,,
+nuggets,,,
+black pepper,,"food cupboard > spices, vinegars, salts & broths",spices
+mayonnaise,,,
+soft drink,coca cola,,
+energy drink,red bull,,
+soft drink,sprite,,
+soft drink,schweppes,,
+soft drink,san pellengrino,,
+beer,heineken,,
+cider,somersby,,
+potato chips,lays,,
+potato chips,pringles,,
+cashews,,nuts & snacks > nuts & dried fruits,nuts
+dried mango,,nuts & snacks > nuts & dried fruits,dried fruits
+sweets,maltesers,,
+baby food,hipp,,
+diapers,pampers,,
+hair colour,hair dye,,
+deodorant,roll-on,,
+deodorant,axe,,
+after shave balsam,,,
+shaving gel,,,
+shaving gel,shaving foam,,
+body lotion,,,
+mouthwash,,,
+toothbrush,,,
+razors,,,
+razors,razor,,
+shaving heads,,,
+condoms,,,
+lubrication,,,
+disinfectant,,,
+dishwasher tablets,,,
+insecticide,,,
+toilet gel,,,
+fabric softenener,,,
+batteries,duracell,,
+pen,,,
+glue stick,,,
+calculator,,,
+spf,,,
+smoked fish,smoked salmon,,
+smoked fish,smoked trout,,
+smoked fish,smoked mackerel,,
+smoked fish,smoked eel,,
+smoked fish,smoked tuna,,
+smoked fish,smoked sardines,,
+smoked fish,smoked anchovies,,
+smoked fish,smoked sea bream,,
+smoked fish,smoked seabass,,
+smoked fish,smoked swordfish,,
+dried fish,dried anchovies,lenten food,lenten | dried fish | fish | seafood
+dried fish,dried cod,lenten food,lenten | dried fish | fish | seafood
+dried fish,dried herring,lenten food,lenten | dried fish | fish | seafood
+dried fish,dried sardines,lenten food,lenten | dried fish | fish | seafood
+dried fish,dried mackerel,lenten food,lenten | dried fish | fish | seafood
+dried fish,dried octopus,lenten food,lenten | dried fish | fish | seafood
+dried fish,dried squid,lenten food,lenten | dried fish | fish | seafood
+dried fish,dried tuna,lenten food,lenten | dried fish | fish | seafood
+apples,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+cherries,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+grapes,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+grapes,grape,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+grapefruit,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+lemons,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+limes,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+peaches,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+nectarines,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+apricots,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+mangoes,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+mangoes,mango,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+pineapples,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+kiwis,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+kiwis,kiwi,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+kumquat,,,
+pomegranates,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+watermelons,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+melons,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+papaya,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+avocados,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+figs,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+dragon fruit,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+passion fruit,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+lychees,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+persimmons,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+clementines,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+pomelo,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+pomelo,pomela,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+quince,,fresh fruits & vegetables > fruits,fruits | fruit | fresh food
+cranberries,,fresh fruits & vegetables > fruits,fruits | fruit | berries | fresh food
+gooseberries,,fresh fruits & vegetables > fruits,fruits | fruit | berries | fresh food
+currants,,fresh fruits & vegetables > fruits,fruits | fruit | berries | fresh food
+red currants,,fresh fruits & vegetables > fruits,fruits | fruit | berries | fresh food
+black currants,,fresh fruits & vegetables > fruits,fruits | fruit | berries | fresh food
+mulberries,,fresh fruits & vegetables > fruits,fruits | fruit | berries | fresh food
+cucumbers,,fresh fruits & vegetables > fresh vegetables,vegetables | vegetable
+zucchini,,fresh fruits & vegetables > fresh vegetables,vegetables | vegetable
+aubergines,,fresh fruits & vegetables > fresh vegetables,vegetables | vegetable
+potatoes,,fresh fruits & vegetables > fresh vegetables,vegetables | vegetable
+sweet potatoes,,fresh fruits & vegetables > fresh vegetables,vegetables | vegetable
+carrots,,fresh fruits & vegetables > fresh vegetables,vegetables | vegetable
+cabbage,,fresh fruits & vegetables > fresh vegetables,vegetables | vegetable
+eggplants,,fresh fruits & vegetables > fresh vegetables,vegetables | vegetable
+red cabbage,,fresh fruits & vegetables > fresh vegetables,vegetables | vegetable
+cauliflower,,fresh fruits & vegetables > fresh vegetables,vegetables | vegetable
+broccoli,,fresh fruits & vegetables > fresh vegetables,vegetables | vegetable
+spinach,,fresh fruits & vegetables > fresh vegetables,vegetables | vegetable
+lettuce,,fresh fruits & vegetables > fresh vegetables,vegetables | vegetable
+celery,,fresh fruits & vegetables > fresh vegetables,vegetables | vegetable
+garlic,,fresh fruits & vegetables > fresh vegetables,vegetables | vegetable
+ginger,,fresh fruits & vegetables > fresh vegetables,vegetables | vegetable
+pumpkin,,fresh fruits & vegetables > fresh vegetables,vegetables | vegetable
+beetroot,,fresh fruits & vegetables > fresh vegetables,vegetables | vegetable
+radish,,fresh fruits & vegetables > fresh vegetables,vegetables | vegetable
+asparagus,,fresh fruits & vegetables > fresh vegetables,vegetables | vegetable
+artichokes,,,
+mushrooms,,fresh fruits & vegetables > fresh vegetables,vegetables | vegetable
+peppers,,fresh fruits & vegetables > fresh vegetables,vegetables | vegetable
+chillies,,fresh fruits & vegetables > fresh vegetables,vegetables | vegetable
+leeks,,fresh fruits & vegetables > fresh vegetables,vegetables | vegetable
+okra,,fresh fruits & vegetables > fresh vegetables,vegetables | vegetable
+turnips,,fresh fruits & vegetables > fresh vegetables,vegetables | vegetable
+peas,,fresh fruits & vegetables > fresh vegetables,vegetables | vegetable
+green beans,,fresh fruits & vegetables > fresh vegetables,vegetables | vegetable
+corn,,fresh fruits & vegetables > fresh vegetables,vegetables | vegetable
+parsley,,,
+coriander,,,
+dill,,,
+mint,,fresh fruits & vegetables > prepacked salads -fruits & herbs,herbs | fresh herbs
+oregano,,fresh fruits & vegetables > prepacked salads -fruits & herbs,herbs | fresh herbs
+thyme,,fresh fruits & vegetables > prepacked salads -fruits & herbs,herbs | fresh herbs
+rosemary,,fresh fruits & vegetables > prepacked salads -fruits & herbs,herbs | fresh herbs
+sage,,fresh fruits & vegetables > prepacked salads -fruits & herbs,herbs | fresh herbs
+chives,,fresh fruits & vegetables > prepacked salads -fruits & herbs,herbs | fresh herbs
+marjoram,,fresh fruits & vegetables > prepacked salads -fruits & herbs,herbs | fresh herbs
+tarragon,,fresh fruits & vegetables > prepacked salads -fruits & herbs,herbs | fresh herbs
+beef shoulder,,fresh meat -fish & seafood > fresh beef,beef | meat
+beef shoulder cubes,,fresh meat -fish & seafood > fresh beef,beef | meat
+beef cubes,,fresh meat -fish & seafood > fresh beef,beef | meat
+beef steak,,fresh meat -fish & seafood > fresh beef,beef | meat
+beef ribeye,,fresh meat -fish & seafood > fresh beef,beef | meat
+beef sirloin,,fresh meat -fish & seafood > fresh beef,beef | meat
+beef burger,,fresh meat -fish & seafood > fresh beef,beef | meat
+minced beef,,fresh meat -fish & seafood > fresh beef,beef | meat
+veal shoulder,,fresh meat -fish & seafood > fresh beef,beef | meat
+veal cubes,,fresh meat -fish & seafood > fresh beef,beef | meat
+pork shoulder,,fresh meat -fish & seafood > fresh pork,pork | meat
+pork shoulder cubes,,fresh meat -fish & seafood > fresh pork,pork | meat
+pork neck,,fresh meat -fish & seafood > fresh pork,pork | meat
+pork neck steaks,,fresh meat -fish & seafood > fresh pork,pork | meat
+pork ribs,,fresh meat -fish & seafood > fresh pork,pork | meat
+pork chops,,fresh meat -fish & seafood > fresh pork,pork | meat
+pork belly,,fresh meat -fish & seafood > fresh pork,pork | meat
+pork loin,,fresh meat -fish & seafood > fresh pork,pork | meat
+pork cubes,,fresh meat -fish & seafood > fresh pork,pork | meat
+minced pork,,fresh meat -fish & seafood > fresh pork,pork | meat
+chicken breast,,fresh meat -fish & seafood > fresh poultry,poultry | chicken | turkey
+chicken thighs,,fresh meat -fish & seafood > fresh poultry,poultry | chicken | turkey
+chicken wings,,fresh meat -fish & seafood > fresh poultry,poultry | chicken | turkey
+whole chicken,,fresh meat -fish & seafood > fresh poultry,poultry | chicken | turkey
+chicken fillet,,fresh meat -fish & seafood > fresh poultry,poultry | chicken | turkey
+minced chicken,,fresh meat -fish & seafood > fresh poultry,poultry | chicken | turkey
+turkey breast,,fresh meat -fish & seafood > fresh poultry,poultry | chicken | turkey
+turkey fillet,,fresh meat -fish & seafood > fresh poultry,poultry | chicken | turkey
+turkey mince,,fresh meat -fish & seafood > fresh poultry,poultry | chicken | turkey
+lamb chops,,fresh meat -fish & seafood > premium meat,lamb | goat | premium meat
+lamb shoulder,,fresh meat -fish & seafood > premium meat,lamb | goat | premium meat
+lamb leg,,fresh meat -fish & seafood > premium meat,lamb | goat | premium meat
+goat shoulder,,fresh meat -fish & seafood > premium meat,lamb | goat | premium meat
+mortadella,,delicatessen > mortadella,cold cuts | delicatessen
+olive mortadella,,delicatessen > mortadella,cold cuts | delicatessen
+pistachio mortadella,,delicatessen > mortadella,cold cuts | delicatessen
+ham,,"delicatessen > ham, bacon & shoulder",cold cuts | ham | bacon | pork
+smoked ham,,"delicatessen > ham, bacon & shoulder",cold cuts | ham | bacon | pork
+bacon,,"delicatessen > ham, bacon & shoulder",cold cuts | ham | bacon | pork
+smoked bacon,,"delicatessen > ham, bacon & shoulder",cold cuts | ham | bacon | pork
+pancetta,,"delicatessen > ham, bacon & shoulder",cold cuts | ham | bacon | pork
+smoked pancetta,,"delicatessen > ham, bacon & shoulder",cold cuts | ham | bacon | pork
+pastrami,,"delicatessen > ham, bacon & shoulder",cold cuts | ham | bacon | pork
+pepperoni,,"delicatessen > ham, bacon & shoulder",cold cuts | ham | bacon | pork
+ham shoulder,,"delicatessen > ham, bacon & shoulder",cold cuts | ham | bacon | pork
+smoked pork loin,,"delicatessen > ham, bacon & shoulder",cold cuts | ham | bacon | pork
+smoked pork,,"delicatessen > ham, bacon & shoulder",cold cuts | ham | bacon | pork
+smoked pork,smoked ham,"delicatessen > ham, bacon & shoulder",cold cuts | ham | bacon | pork
+smoked pork,smoked bacon,"delicatessen > ham, bacon & shoulder",cold cuts | ham | bacon | pork
+smoked pork,smoked pancetta,"delicatessen > ham, bacon & shoulder",cold cuts | ham | bacon | pork
+smoked pork,smoked pork loin,"delicatessen > ham, bacon & shoulder",cold cuts | ham | bacon | pork
+smoked pork,smoked gammon,,
+smoked turkey breast,,delicatessen > turkey & chicken cold cuts,cold cuts | turkey | chicken
+smoked turkey slices,,delicatessen > turkey & chicken cold cuts,cold cuts | turkey | chicken
+chicken cold cuts,,delicatessen > turkey & chicken cold cuts,cold cuts | turkey | chicken
+turkey cold cuts,,delicatessen > turkey & chicken cold cuts,cold cuts | turkey | chicken
+smoked turkey,,delicatessen > turkey & chicken cold cuts,cold cuts | turkey | chicken
+smoked turkey,smoked turkey breast,delicatessen > turkey & chicken cold cuts,cold cuts | turkey | chicken
+smoked turkey,smoked turkey slices,delicatessen > turkey & chicken cold cuts,cold cuts | turkey | chicken
+smoked turkey,smoked turkey fillet,delicatessen > turkey & chicken cold cuts,cold cuts | turkey | chicken
+smoked turkey,smoked turkey filet,delicatessen > turkey & chicken cold cuts,cold cuts | turkey | chicken
+salami,,delicatessen > salami,cold cuts | salami
+chorizo,,delicatessen > salami,cold cuts | salami
+soppressata,,delicatessen > salami,cold cuts | salami
+pepper salami,,delicatessen > salami,cold cuts | salami
+white pepper,,"food cupboard > spices, vinegars, salts & broths",spices
+paprika,,"food cupboard > spices, vinegars, salts & broths",spices
+smoked paprika,,"food cupboard > spices, vinegars, salts & broths",spices
+cumin,,"food cupboard > spices, vinegars, salts & broths",spices
+cinnamon,,"food cupboard > spices, vinegars, salts & broths",spices
+turmeric,,"food cupboard > spices, vinegars, salts & broths",spices
+curry powder,,"food cupboard > spices, vinegars, salts & broths",spices
+oregano spice,,"food cupboard > spices, vinegars, salts & broths",spices
+thyme spice,,"food cupboard > spices, vinegars, salts & broths",spices
+rosemary spice,,"food cupboard > spices, vinegars, salts & broths",spices
+nutmeg,,"food cupboard > spices, vinegars, salts & broths",spices
+cloves,,"food cupboard > spices, vinegars, salts & broths",spices
+saffron,,"food cupboard > spices, vinegars, salts & broths",spices
+vanilla,,"food cupboard > spices, vinegars, salts & broths",spices
+chili flakes,,"food cupboard > spices, vinegars, salts & broths",spices
+garlic powder,,"food cupboard > spices, vinegars, salts & broths",spices
+ginger powder,,"food cupboard > spices, vinegars, salts & broths",spices
+ketchup,,"food cupboard > ketchup, mustards & ready-made sauces",sauce | sauces | condiments
+mustard,,"food cupboard > ketchup, mustards & ready-made sauces",sauce | sauces | condiments
+barbecue sauce,,"food cupboard > ketchup, mustards & ready-made sauces",sauce | sauces | condiments
+soy sauce,,"food cupboard > ketchup, mustards & ready-made sauces",sauce | sauces | condiments
+hot sauce,,"food cupboard > ketchup, mustards & ready-made sauces",sauce | sauces | condiments
+chili sauce,,"food cupboard > ketchup, mustards & ready-made sauces",sauce | sauces | condiments
+pesto,,"food cupboard > ketchup, mustards & ready-made sauces",sauce | sauces | condiments
+tahini,,"food cupboard > ketchup, mustards & ready-made sauces",sauce | sauces | condiments
+salad dressing,,"food cupboard > ketchup, mustards & ready-made sauces",sauce | sauces | condiments
+tomato sauce,,"food cupboard > ketchup, mustards & ready-made sauces",sauce | sauces | condiments
+aioli,,"food cupboard > ketchup, mustards & ready-made sauces",sauce | sauces | condiments
+caesar dressing,,"food cupboard > ketchup, mustards & ready-made sauces",sauce | sauces | condiments
+vinaigrette,,"food cupboard > ketchup, mustards & ready-made sauces",sauce | sauces | condiments
+burger sauce,,"food cupboard > ketchup, mustards & ready-made sauces",sauce | sauces | condiments
+almonds,,nuts & snacks > nuts & dried fruits,nuts
+walnuts,,nuts & snacks > nuts & dried fruits,nuts
+pistachios,,nuts & snacks > nuts & dried fruits,nuts
+hazelnuts,,nuts & snacks > nuts & dried fruits,nuts
+peanuts,,nuts & snacks > nuts & dried fruits,nuts
+pecans,,nuts & snacks > nuts & dried fruits,nuts
+macadamia,,nuts & snacks > nuts & dried fruits,nuts
+brazil nuts,,nuts & snacks > nuts & dried fruits,nuts
+pine nuts,,nuts & snacks > nuts & dried fruits,nuts
+mixed nuts,,nuts & snacks > nuts & dried fruits,nuts
+dried pineapple,,nuts & snacks > nuts & dried fruits,dried fruits
+dried apple,,nuts & snacks > nuts & dried fruits,dried fruits
+dried banana,,nuts & snacks > nuts & dried fruits,dried fruits
+dried papaya,,nuts & snacks > nuts & dried fruits,dried fruits
+dried coconut,,nuts & snacks > nuts & dried fruits,dried fruits
+dried cranberries,,nuts & snacks > nuts & dried fruits,dried fruits
+dried apricots,,nuts & snacks > nuts & dried fruits,dried fruits
+dried figs,,nuts & snacks > nuts & dried fruits,dried fruits
+dried dates,,nuts & snacks > nuts & dried fruits,dried fruits
+raisins,,nuts & snacks > nuts & dried fruits,dried fruits
+dried kiwi,,nuts & snacks > nuts & dried fruits,dried fruits
+pencil,,,
+eraser,,,
+sharpener,,,
+marker,,,
+highlighter,,,
+notebook,,,
+ruler,,,
+scissors,,,
+sticky notes,,,
+stapler,,,
+staples,,,
+colored pencils,,,
+ballpoint pen,,,
+energy drink,monster,,
+energy drink,burn,,
+energy drink,rockstar,,
+soft drink,fanta,,
+soft drink,pepsi,,
+soft drink,7up,,
+soft drink,dr pepper,,
+soft drink,coca-cola,,
+soft drink,san pellegrino,,
+beer,carlsberg,,
+beer,corona,,
+beer,stella artois,,
+beer,budweiser,,
+beer,becks,,
+beer,guinness,,
+sweets,m&m,,
+sweets,skittles,,
+baby food,gerber,,
+dog food,pedigree,,
+coffee capsules,nespresso,,
+coffee capsules,dolce gusto,,
+diapers,huggies,,
+diapers,libero,,
+smoked fish,herring fillet,,
+garlic spread,,,
+garlic spread,skordalia,,
+cooked chickpeas,,,
+hazelnut spread,,,
+hazelnut spread,cocoa spread,,
+anchovies,,,
+retsina,,,
+mango,,,
+kiwi,,,
+pineapple,,,
+lotus fruit,lotus,,
+eggplant,,,
+spearmint,,,
+rocket,,,
+chicory,,,
+fruit salad,mixed fruits,,
+fruit salad,exotic fruits,,
+fruit salad,tropical fruit,,
+fresh cut fruit,fresh cut,fresh fruits & vegetables > prepacked salads -fruits & herbs,fruit | fresh cut | fresh food
+fresh cut fruit,pre cut,fresh fruits & vegetables > prepacked salads -fruits & herbs,fruit | fresh cut | fresh food
+fresh cut fruit,pre-sliced,fresh fruits & vegetables > prepacked salads -fruits & herbs,fruit | fresh cut | fresh food
+salad,,fresh fruits & vegetables > prepacked salads -fruits & herbs,salad | fresh cut
+rocket,baby rocket,,
+wafer rolls,roll waffer,,
+daktyla,daktilia,,
+crisprolls,,,
+crisp rolls,,,
+croutons,,,
+bake rolls,,,
+toasties,,,
+arkatena,arkaten,,
+dakaki,dacaki,,
+chicken drumsticks,chicken drumstick,,
+chicken drumsticks,,,
+chicken liver,,,
+chicken cuts,,,
+chicken leg,,,
+chicken cordon bleu,cordon blue chicken,,
+chicken cutlet,,,
+pork schnitzel,,,
+pork sheftalia,pork sheftal,,
+lamb sheftalia,lamb sheftal,,
+burgers,,fresh meat -fish & seafood > meat & poultry recipes,meat recipes
+chicken thighs,chicken thigh,,
+chicken souvlaki,,,
+pork chop,,,
+lamb for kleftiko,kleftiko,,
+lamb,,fresh meat -fish & seafood > fresh lamb & goat,lamb | goat
+sea bream fillet,seabream fillet,,
+sea bream,,,
+salmon steak,,,
+sea bass,,,
+sea bass fillet,seabass fillet,,
+prawns,,,
+shrimps,,,
+cuttlefish,,,
+iced coffee,caffè latte,,
+iced coffee,caffe latte,,
+iced coffee,skinny latte,,
+ayran,,,
+almond drink,almond beverage,,
+soy drink,soya,"milk, beverages & refrigerator juice > milk substitutes",milk substitutes
+coconut drink,coconut,"milk, beverages & refrigerator juice > milk substitutes",milk substitutes
+yogurt dessert,activi,,
+cooking cream,for cooking,"yogurts, milk creams & desserts > milk creams & whipped creams",cream | creams
+kids yogurt,yogkids,,
+kids yogurt,yogikids,,
+kids yogurt,onino,,
+kids yogurt,pepa,,
+grated cheese,grated,cheese & vegetable alternatives > grated cheese,cheese
+mascarpone,,,
+cottage cheese,cottage,,
+processed cheese,la vache qui rit,,
+processed cheese,triangles,cheese & vegetable alternatives > spreadable cheeses & mini cheeses,cheese
+curd cheese,curd,cheese & vegetable alternatives > spreadable cheeses & mini cheeses,cheese
+sausage,,delicatessen > sausages,delicatessen
+lountza,,"delicatessen > ham, bacon & shoulder",delicatessen | pork
+lountza,lountzaki,,
+prosciutto,,delicatessen > prosciutto & jamon,delicatessen | pork
+aluminium foil,aluminium,household items > single use products,single use
+cling film,,,
+face masks,,,
+toothpicks,,,
+plastic cups,cups,household items > single use products,single use
+food containers,,,
+ice cube bags,,,
+wooden spoons,,,
+wooden forks,,,
+wooden knives,,,
+plastic spoons,,,
+disposable gloves,gloves,household items > single use products,single use
+straws,,household items > single use products,single use
+baking paper,non-stick sheets,,
+microfibre cloth,,,
+sponge,,detergents & cleaning supplies > cleaning equipment,cleaning equipment
+sponge cloth,,,
+mop head,,,
+cleaning wipes,,detergents & cleaning supplies > cleaning equipment,cleaning equipment
+dust pan,,,
+broom,,,
+bucket,,,
+mop,,detergents & cleaning supplies > cleaning equipment,cleaning equipment
+scourer,scour,,
+steel wool,steel wire,,
+mixed herbs,,"food cupboard > spices, vinegars, salts & broths",spices
+pepper mill,,"food cupboard > spices, vinegars, salts & broths",spices
+apple vinegar,,,
+balsamic vinegar,,,
+white vinegar,,,
+vegetable broth,,,
+fish fillets,fish fillet,,
+cod fillets,cod fillet,,
+fish fingers,,,
+frozen shrimps,shrimp,frozen > frozen fish & seafood,frozen fish | seafood
+pangasius fillets,pangasius,,
+mussels,,,
+fruit filling,filling,food cupboard > cooking & baking aids,baking
+gelatine,,,
+mastic,,,
+sesame seeds,,food cupboard > cooking & baking aids,baking
+bicarbonate of soda,,,
+baking powder,double lion,,
+sponge cake layers,,,
+jelly,,food cupboard > cooking & baking aids,dessert | baking
+custard powder,,,
+couverture chocolate,couverture,,
+tricolore pasta,tricolore,food cupboard > pasta & pasta sauces,pasta
+spaghettoni,spangetoni,,
+mezzani,,,
+barley pasta,barley,food cupboard > pasta & pasta sauces,pasta
+fidellini,,,
+coral pasta,coral,food cupboard > pasta & pasta sauces,pasta
+linguini,liguini,,
+peanuts,peanut,,
+mixed nuts,mix nuts,,
+dates,,,
+roasted chickpeas,roasted white chickpeas,,
+pine nuts,pine nut,,
+sunflower seeds,sunflower seed,,
+hazelnuts,hazelnut,,
+dried prunes,,,
+energy drink,prime,,
+energy drink,shark,,
+soft drink,kean,,
+soft drink,loux,,
+coffee pods,tassimo,,
+instant coffee,jacobs gold,,
+instant coffee,nescafe classic,,
+instant coffee,tchibo instant,,
+green tea,,,
+herbal tea,immune tea,,
+whisky,,,
+tsipouro,,,
+zivania,zivana,,
+zivania,,,
+ouzo,,,
+liqueur,,,
+tequila,,,
+wine,commandaria,,
+wine,xynisteri,,
+wine,malbec,,
+wine,chardonnay,,
+rose wine,rose,cava > wines & champagnes,wine | wines
+beer,draught,cava > beers,beer
+beer,weissbier,,
+beer,lager,cava > beers,beer | beers
+beer,ale,cava > beers,beer | beers
+cider,,,
+sweets,ferrero,,
+sweets,raffaello,,
+sweets,rocher,,
+sweets,twix,,
+sweets,kit kat,,
+sweets,kitkat,,
+wax strips,cold wax strips,,
+wax strips,body wax strips,,
+make-up pads,make-up discs,,
+make-up pads,round pads,,
+make-up remover wipes,makeup remover wipes,,
+make-up remover wipes,micellar wet wipes,,
+face serum,,,
+sheet mask,,,
+wash gel,,cosmetics & personal hygiene products > women’s personal care,face care | personal care | women’s personal care | womens personal care
+eye make-up remover,,,
+acetone,,,
+root concealer spray,,,
+tampons,,cosmetics & personal hygiene products > sanitary health,sanitary health
+incontinence pants,disposable pants,"cosmetics & personal hygiene products > adult diapers, napkins & undersheets",adult diapers | incontinence
+incontinence slips,adult slips,"cosmetics & personal hygiene products > adult diapers, napkins & undersheets",adult diapers | incontinence
+absorbent protector,,"cosmetics & personal hygiene products > adult diapers, napkins & undersheets",adult diapers | incontinence
+absorbent pads,,"cosmetics & personal hygiene products > adult diapers, napkins & undersheets",adult diapers | incontinence
+antiseptic spray,antiseptic hand spray,cosmetics & personal hygiene products > antiseptics,antiseptic | antiseptics
+ethyl alcohol,,cosmetics & personal hygiene products > antiseptics,antiseptic | antiseptics
+antibacterial spray,anti bacterial sprey,cosmetics & personal hygiene products > antiseptics,antiseptic | antiseptics
+antibacterial wipes,quattro antibacterial,cosmetics & personal hygiene products > antiseptics,antiseptic | wipes | antiseptics
+lozenges,strepsils,,
+wound dressings,,,
+after bite,,,
+sausage rolls,,,
+sausage rolls,sausage roll,,
+sausage pies,,,
+sausage pies,sausage pie,,
+sausage pies,mini sausage pies,,
+breadsticks,crunchy rye breads,"bakery, cakes & treats > breadsticks, rusks & toasts",breadsticks | rusks | toasts
+pasta,vermicelli,food cupboard > pasta & pasta sauces,pasta
+pasta,vermichelli,food cupboard > pasta & pasta sauces,pasta
+pasta,vermichell i,food cupboard > pasta & pasta sauces,pasta
+pantyliners,,,
+pen,ballpoint pens,,
+marker,markers,,
+mechanical pencils,,,
+spf,sunscreen,sun care,sun care | kids sun care
+arkatena,arkateno,,
+pork sheftalia,pork sheftalies,,
+lamb sheftalia,lamb sheftalia,,
+lamb,lambkin,fresh meat -fish & seafood > fresh lamb & goat,lamb | goat
+cod fillets,cod fillets,,
+cider,ciders,,
+microfibre cloths,,,
+scourer,scourer,,
+artichokes,artichokes1kg,,
+spf,spf50,sun care,sun care | kids sun care
+arkatena,,,
+pork sheftalia,,,
+potato chips,salt chips,,
+potato chips,vinegar chips,,
+potato chips,wavy chips,,
+potato chips,chips,"nuts & snacks > potato chips, cheese puff & other snacks",potato chips | chips | snacks
+conditioner,condition er,,
+baby food,baby lactee powder,,
+baby food,baby milk powder,,
+iced coffee,ice coffee,,
+tomatoes,cherry tomato,,
+tomatoes,kleopas tomato,,
+tomatoes,tomato,fresh fruits & vegetables > vegetables | fresh fruits & vegetables > bio fruits & vegs,vegetables | vegs
+yogurt,yoghurt,,
+cheese,halloumi,,
+adult diapers,adult open briefs,,
+baby food,baby milk,,
+baby food,kiddylicious,,
+bread,b read,,
+cat food,whiskas,pet food & supplies > cat food & supplies,cat food
+cat food,felix,pet food & supplies > cat food & supplies,cat food
+cat food,cat,pet food & supplies > cat food & supplies,cat food
+cat food,cats,pet food & supplies > cat food & supplies,cat food
+cereal,cerial,,
+cheese,gouda,,
+cheese,mozzarella,,
+clementines,clementine,,
+dish brush refills,refills,detergents & cleaning supplies > cleaning equipment,cleaning equipment | cleaning supplies
+disinfectant cleaning solution,disinfectant cleaning sol ution,,
+dog food,dog,pet food & supplies > dog food & supplies,dog food
+hair mousse,mousse,cosmetics & personal hygiene products > hair care,hair care | hair
+lever arch file,level arch file,,
+pasta,spaghetti,,
+shampoo & conditioner for pets,shampoo & condition er for pets,,
+stock cubes,stoke cubes,,
+wafer treats,waffer treats,,
+walnuts,walnut,nuts & snacks > nuts & dried fruits,nuts | dried fruits | snacks
+cheese,anari,,
+cheese,cheddar,,
+cheese,edam,,
+cheese,emmental,,
+cheese,feta,,
+cheese,graviera,,
+cheese,kefalotyri,,
+cheese,parmesan,,
+cheese,parmigiano,,
+cheese,reggiano,,
+cheese,grana,,
+cheese,ricotta,,
+cheese,brie,,
+cheese,camembert,,
+cheese,pecorino,,
+pasta,penne,,
+pasta,fusilli,,
+pasta,conchiglie,,
+pasta,linguine,,
+pasta,tagliatelle,,
+pasta,tortellini,,
+pasta,cannelloni,,
+pasta,lasagne,,
+pasta,farfalle,,
+pasta,macaroni,,
+pasta,gnocchi,,
+pasta,orzo,,
+pasta,spaghettini,,
+pasta,pastitsio,,
+hair colour,hair color,,
+salmon fillet,,,
+salmon fillet,filet salmon,,
+brussels sprouts,,,
+mixed vegetables,,,
+ravioli,,,
+pastry sheet,,,
+vegetable powder,,,
+thyme spice,thyme,"food cupboard > spices, vinegars, salts & broths",spices
+curry powder,curry,"food cupboard > spices, vinegars, salts & broths",spices
+pepper mix,,"food cupboard > spices, vinegars, salts & broths",spices
+garlic spice,garlic dried,"food cupboard > spices, vinegars, salts & broths",spices
+hot pepper,,"food cupboard > spices, vinegars, salts & broths",spices
+chili spice,dried chilli,"food cupboard > spices, vinegars, salts & broths",spices
+chili spice,dried chili,"food cupboard > spices, vinegars, salts & broths",spices
+bechamel powder,,,
+guacamole,,"food cupboard > ketchup, mustards & ready-made sauces",sauce|sauces|condiments
+salsa,,"food cupboard > ketchup, mustards & ready-made sauces",sauce|sauces|condiments
+buckwheat,,,cereal|cereals|grain|grains
+ketchup,,,
+beer,beers,,
+vermouth,,,
+rum,,,
+cashews,cashew,nuts & snacks > nuts & dried fruits,nuts
+baby food,baby formula,,
+diapers,huggeis,child & infant care > baby diapers,baby diapers|diapers
+diapers,haggis,child & infant care > baby diapers,baby diapers|diapers
+baby lotion,,,
+baby powder,,,
+napkins,,,
+tissues,,,
+birthday candles,,,
+plastic forks,,,
+dehumidifier,,household items > room fragrances & moisture collectors,moisture|dehumidifier
+dehumidifier refill,,household items > room fragrances & moisture collectors,moisture|dehumidifier
+photocopy paper,,,
+correction tape,,,
+cake,,"bakery, cakes & treats > cakes - pancakes & more",cakes|cake
+isothermal bag,,,
+corn flakes,,,
+nori,,,
+kataifi,,,
+kataifi,katifi,,
+grape vinegar,,,
+vinegar,,"food cupboard > spices, vinegars, salts & broths",vinegar|vinegars
+peach in syrup,,,
+cherry in syrup,,,
+oat flakes,,,
+liquor,liquer,cava > alcoholic beverages,alcohol|alcoholic beverages|cava
+bitter,,cava > alcoholic beverages,alcohol|alcoholic beverages|cava
+pickled caper leaves,,,
+nuts,,nuts & snacks > nuts & dried fruits,nuts|dried fruits
+dishwashing liquid,,detergents & cleaning supplies > dishwashing essentials,dishwashing|handwashing
+dishwashing liquid,dish washing liquid,detergents & cleaning supplies > dishwashing essentials,dishwashing|handwashing
+dishwashing liquid,dish-wash liquid,detergents & cleaning supplies > dishwashing essentials,dishwashing|handwashing
+dishwashing liquid,washing-up liquid,detergents & cleaning supplies > dishwashing essentials,dishwashing|handwashing
+toilet liquid,,detergents & cleaning supplies > bathroom cleaners,bathroom|toilet
+baby towels,,,
+wet wipes,,everyday paper needs > kitchen roll,kitchen roll|paper needs
